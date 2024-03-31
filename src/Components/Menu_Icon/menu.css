@@ -1,0 +1,10 @@
+.menu{
+    text-decoration: none;
+    padding-right: 10px;
+    color: white;
+   
+
+}
+.menu:hover{
+    color: red;
+}

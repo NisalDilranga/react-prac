@@ -1,0 +1,8 @@
+
+
+.nav{
+    background-color: red;
+    height:60vh;
+    display: flex;
+    justify-content: center;
+  }
